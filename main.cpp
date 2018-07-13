@@ -1,5 +1,8 @@
-#include <memory>
+#include <cstring>
 #include <ctime>
+#include <cmath>
+#include <utility>
+#include <cstdio>
 
 #define WIDTH 100
 #define HEIGHT 100
